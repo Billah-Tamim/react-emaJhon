@@ -1,8 +1,8 @@
 # This react project live link on netlify [Click here to see](https://cozy-blini-c7808b.netlify.app/).
 
-## Available Scripts
+## Github code link [Git Code](https://github.com/Billah-Tamim/react-emaJhon).
 
-In the project directory, you can run:
+locally the code i find in the folder mileston-9>n53-module>
 
 ### `npm start`
 
