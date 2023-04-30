@@ -26,7 +26,10 @@ function App() {
           loader: loadData,
           element: <Orders></Orders>
         },
-        { path: '/about', element: <About></About> }
+        { 
+          path: '/about',
+          element: <About></About>
+        }
       ]
     }
   ]);

@@ -1,4 +1,4 @@
-# This react project live link on netlify [Click here to see](https://cozy-blini-c7808b.netlify.app/).
+# This react project live link on netlify [Click here to see](https://soft-manatee-b5b1b5.netlify.app/).
 
 ## Github code link [Git Code](https://github.com/Billah-Tamim/react-emaJhon).
 
